@@ -30,7 +30,7 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
     <style>
         body{
-            background-color: #f0f0f0;
+            background-image: url('https://img.freepik.com/premium-photo/hands-holding-red-heart-blue-background_49149-917.jpg?w=2000');
         }
     </style>
 </head>
